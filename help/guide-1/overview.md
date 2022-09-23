@@ -9,7 +9,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 
 ## List of discontinued products
 
-* Device Co-op
+* [Device Co-op](device-co-op.md)
 * Search & Promote
 * Livefyre
 * Mobile services
