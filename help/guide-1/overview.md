@@ -16,5 +16,26 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 * [Adobe Social](social.md)
 
 <!--
+## Notifications of upcoming products to be discontinued
+
+* Data Workbench end-of-life date is **December 31, 2023**. [Link]
+
+-->
+
+## List of rebranded products
+
+* Adobe Acrobat DC is now Adobe Acrobat.
+* Adobe Sign is now Acrobat Sign.
+* Magento is now Adobe Commerce.
+* Launch (and Experience Platform Launch) is now referred to as tags in Adobe Data Collection. See [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html). 
+* XML Documentation for Adobe Experience Manager is now Adobe Experience Manager Guides.
+* Captivate Prime is now Adobe Learning Manager.
+* Bizible is now Marketo Measure.
+
+## Additional discontinued products
+
+* Adobe Bloodhound was sunset on May 1, 2017.
+
+<!--
 https://helpx.adobe.com/support/programs/support-options-free-discontinued-apps-services.html
 -->
