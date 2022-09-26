@@ -12,8 +12,8 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 * [Device Co-op](device-co-op.md)
 * [Search&Promote](search-promote.md)
 * [Livefyre](livefyre.md)
-* Mobile services
 * [Adobe Social](social.md)
+* [Mobile services](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html)
 
 <!--
 ## Notifications of upcoming products to be discontinued
