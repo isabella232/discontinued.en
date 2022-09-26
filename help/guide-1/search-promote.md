@@ -28,7 +28,3 @@ exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 ### **_Who can I contact to learn more?_**
 
   Reach out to your Customer Success Manager (CSM) with any questions or contact the Adobe team at [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
-
-### **_Can I still renew my applicable Search&Promote license before its end-of-service?_**
-
-  Yes. Work with your Adobe representative to renew your license with a contract end date no later than **August 31, 2022**.
