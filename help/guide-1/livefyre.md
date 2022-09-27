@@ -6,7 +6,7 @@ description: Livefyre end-of-service reminder for Livefyre and Livefyre Studio.
 
 >[!IMPORTANT]
 >
->The last day customers can access Livefyre was November 30, 2021.
+>The last day customers could access Livefyre was November 30, 2021.
 
 Changing dynamics with social media providers, including Facebook and Twitter, have made it challenging to continue to offer Adobe customers a robust UGC (User-Generated Content) solution. Because of these challenges, Adobe has made the difficult decision to end the Livefyre service. The last day customers will be able to access Livefyre is November 30, 2021. Since January 2021, Adobe has been working with customers using Livefyre on a smooth transition to trusted Adobe partners and recommending alternative solutions. This reminder is to ensure visibility of the end of Livefyre service date. Adobe is committed to providing what is needed for a smooth handoff. If you have questions, please reach out to your Customer Success Manager or Account Manager.
 
