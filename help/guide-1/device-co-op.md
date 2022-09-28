@@ -1,14 +1,14 @@
 ---
 keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;end-of-life
-title: Device Co-op end-of-life FAQ
+title: "[!DNL Device Co-op] end-of-life FAQ"
 description: Learn about the end-of-life plans for the Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 ---
-# Device Co-op end-of-life FAQ
+# [!DNL Device Co-op] end-of-life FAQ
 
-This document provides answers to frequently asked questions about the Adobe Experience Cloud Device Co-op end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+This document provides answers to frequently asked questions about the [!DNL Adobe Experience Cloud Device Co-op] end-of-life (EOL) plan. When this plan goes into effect, Adobe will provide an advanced notice in the [Experience Cloud release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) and the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-Device Co-op was a program that let participants work together to better identify consumers across digital touch points while ensuring the highest level of privacy and transparency.
+[!DNL Device Co-op] was a program that let participants work together to better identify consumers across digital touch points while ensuring the highest level of privacy and transparency.
 
 ## FAQ
 
@@ -42,10 +42,10 @@ The [!DNL Device Co-op] program will end in 2022. The specific timing and date d
 
 The following applications will be affected by the [!DNL Device Co-op] end of life procedures:
 
-- [Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
-- [Adobe Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
-- [Adobe Advertising Cloud](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
-- [Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
+- [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
+- [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
+- [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
+- [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
 
 ## What options do I have as alternatives to [!DNL Device Co-op]?
 
