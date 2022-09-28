@@ -25,7 +25,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 ## List of rebranded products
 
 * *[!DNL Adobe Acrobat DC]* is now *[!DNL Adobe Acrobat]*.
-* *[!DNL Adobe Sign]* is now [*!DNL Acrobat Sign]*.
+* *[!DNL Adobe Sign]* is now *[!DNL Acrobat Sign]*.
 * *[!DNL Magento]* is now *[!DNL Adobe Commerce]*.
 * *[!DNL Launch]*/*[!DNL Experience Platform Launch]* is now referred to as *tags* in [!DNL Adobe Data Collection]. See [Tags overview](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html). 
 * *[!DNL XML Documentation for Adobe Experience Manager]* is now *[!DNL Adobe Experience Manager Guides]*.
