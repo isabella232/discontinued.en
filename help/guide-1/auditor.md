@@ -1,5 +1,5 @@
 ---
-title: [!DNL Adobe Experience Platform Auditor] Overview
+title: "[!DNL Adobe Experience Platform Auditor] Overview"
 description: This document covers [!DNL Adobe Experience Platform Auditor] and its successors.
 exl-id: 326ae443-2974-4f0c-8c16-bfd2b8a6a70c
 ---
