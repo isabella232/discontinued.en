@@ -8,6 +8,7 @@ user-guide-description: List of discontinued Products for [!DNL Adobe Experience
 
 + [Overview](overview.md)
 + [Device Co-op](device-co-op.md)
++ [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
 + [Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
 + [Search&Promote](search-promote.md)
