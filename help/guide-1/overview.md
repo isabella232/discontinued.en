@@ -1,8 +1,8 @@
 ---
 title: Overview of discontinued [!DNL Adobe Experience Cloud] products
 description: Overview of discontinued, retired, or end-of-life products for [!DNL Adobe Experience Cloud] and [!DNL Adobe Experience Platform]
+exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 ---
-
 # Overview of discontinued Adobe Experience Cloud products
 
 Adobe occasionally discontinues the sale, development of, or support for a product or technology as a result of changing market conditions and impact to customers.
