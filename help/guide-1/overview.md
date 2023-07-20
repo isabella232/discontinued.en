@@ -15,7 +15,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 * [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
-+ [[!DNL Experience Cloud Library]](experience-cloud-library.md)
+* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 
 <!--
 ## Notifications of upcoming products to be discontinued
