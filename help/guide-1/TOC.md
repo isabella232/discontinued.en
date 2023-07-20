@@ -13,3 +13,4 @@ user-guide-description: List of discontinued Products for [!DNL Adobe Experience
 + [Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
 + [Search&Promote](search-promote.md)
 + [Social](social.md)
++ [Adobe Experience Cloud Library](experience-cloud-library.md)
