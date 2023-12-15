@@ -10,7 +10,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 ## List of discontinued products
 
 * [[!DNL Device Co-op]](device-co-op.md)
-* [!DNL Data Workbench](data-workbench.md)
+* [[!DNL Data Workbench]](data-workbench.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
 * [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
