@@ -7,6 +7,7 @@ user-guide-description: List of discontinued Products for [!DNL Adobe Experience
 # Discontinued products {#using}
 
 + [Overview](overview.md)
++ [Data Workbench](data-workbench.md)
 + [Device Co-op](device-co-op.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
