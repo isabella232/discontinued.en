@@ -1,9 +1,9 @@
 ---
-title: [!DNL Reports & Analytics] end-of-life notice
-description: Reports & Analytics end-of-life reminder.
+title: [!DNL Reports and Analytics] end-of-life notice
+description: Reports and Analytics end-of-life reminder.
 ---
 
-# Reports & Analytics end-of-life notice
+# Reports and Analytics end-of-life notice
 
 Effective January 17, 2024, Adobe has discontinued Reports & Analytics and its accompanying reports and features. At that time, Reports & Analytics and all of its reports and schedules stopped working. The reports, visualizations and underlying technology that power Reports & Analytics no longer meet Adobe's technology standards. Most Reports & Analytics features are available within Analysis Workspace. For information about using reports in Analysis Workspace, see [Use pre-built reports](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/reports/use-reports.html).
 
