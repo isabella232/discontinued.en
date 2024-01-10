@@ -1,5 +1,5 @@
 ---
-title: [!DNL Reports and Analytics] end-of-life notice
+title: Reports and Analytics end-of-life notice
 description: Reports and Analytics end-of-life reminder.
 ---
 
