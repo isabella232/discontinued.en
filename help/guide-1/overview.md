@@ -14,6 +14,7 @@ Adobe occasionally discontinues the sale, development of, or support for a produ
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
 * [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
+* [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
 * [[!DNL Experience Cloud Library]](experience-cloud-library.md)
